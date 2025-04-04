@@ -238,10 +238,10 @@ app.on('ready', () => {
 		return {
 			product: {
 				version: '1.x.y',
-				nameShort: 'Code - OSS Dev',
-				nameLong: 'Code - OSS Dev',
+				nameShort: 'Lovelace Dev',
+				nameLong: 'Lovelace Dev',
 				applicationName: 'code-oss',
-				dataFolderName: '.vscode-oss',
+				dataFolderName: '.lovelace',
 				urlProtocol: 'code-oss',
 			}
 		};
